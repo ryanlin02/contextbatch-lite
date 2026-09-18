@@ -45,7 +45,7 @@ The destination folder must already exist. Supported input: UTF-8 **TXT/MD**, **
 
 ## When one file is not enough
 
-[**ContextBatch — Local RAG Document Handoff ($19 on Gumroad)**](https://tobias227.gumroad.com/l/contextbatch-rag-handoff?utm_source=github&utm_medium=readme&utm_campaign=contextbatch_lite) adds the original batch workflow, source metadata and review reports. You are paying for that packaging and workflow, not exclusive access to MarkItDown. Checkout displays any applicable taxes.
+[**ContextBatch — Local RAG Document Handoff ($19 on Gumroad)**](https://gum.co/u/bj2wuysu) adds the original batch workflow, source metadata and review reports. You are paying for that packaging and workflow, not exclusive access to MarkItDown. Checkout displays any applicable taxes.
 
 | Workflow | Free Lite (this repository) | ContextBatch paid kit |
 | --- | --- | --- |
